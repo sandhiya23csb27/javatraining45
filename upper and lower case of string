@@ -1,0 +1,16 @@
+public class javabasic_2
+{
+	public static void main(String[] args) {
+	    String str="java programming";
+	    String result=str.toUpperCase();
+	    System.out.println(result);
+	}
+}
+public class javabasic_2
+{
+	public static void main(String[] args) {
+	    String str="java programming";
+	    String result=str.toLowerCase();
+	    System.out.println(result);
+	}
+}
